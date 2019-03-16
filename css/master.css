@@ -1,3 +1,6 @@
+.navbar {
+  box-shadow: none;
+}
 .top-nav-collapse {
     background-color: #4B515D;
   }
